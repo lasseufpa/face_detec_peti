@@ -24,10 +24,15 @@ Materiais sobre o processo de treinamento de um classificador para reconheciment
 
 
 [Face Detection using Haar Cascades](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html#gsc.tab=0)
+
 [Cascade Classifier Training](http://docs.opencv.org/trunk/dc/d88/tutorial_traincascade.html#gsc.tab=0)
+
 [Video OpenCV Windows](https://www.youtube.com/watch?v=yXm4heIHRr4)
+
 [Video OpenCV Linux](https://www.youtube.com/watch?v=WEzm7L5zoZE)
+
 [Exemplo Matlab 1](https://www.mathworks.com/matlabcentral/fileexchange/44545-train-cascade-object-detector)
+
 [Exemplo Matlab 2](https://www.mathworks.com/matlabcentral/fileexchange/36855-face-parts-detection)
 
 ###### Detecção
